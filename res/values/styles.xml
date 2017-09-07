@@ -169,13 +169,13 @@
     </style>
 
     <style name="DialerSettingsLight" parent="SettingsLight">
-        <item name="android:colorAccent">@color/dialer_theme_color</item>
+        <item name="android:colorAccent">@color/people_app_theme_color</item>
         <item name="android:dialogTheme">@style/DialerAlertDialogTheme</item>
     </style>
 
     <style name="DialerAlertDialogTheme"
         parent="@android:style/Theme.Material.Light.Dialog">
-        <item name="android:colorAccent">@color/dialer_theme_color</item>
+        <item name="android:colorAccent">@color/people_app_theme_color</item>
         <item name="android:textColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
     </style>
 
